@@ -8,7 +8,7 @@ O projeto foi criado junto ao curso HTML e CSS na Prática, onde foram ensinados
 
 
 
-<img src="C:/Users/diego/Desktop/part-1.jpg">
+<img src="Imagem 2/part-1.jpg">
 
 
 
@@ -31,7 +31,7 @@ O projeto foi criado junto ao curso HTML e CSS na Prática, onde foram ensinados
 
 <p> Feito modelo de Pop-up na página principal (index).</p>
 
-<img src="C:/Users/diego/Desktop/part-2.jpg">
+<img src="Imagem 2/part-2.jpg">
 
 
 
@@ -39,7 +39,7 @@ O projeto foi criado junto ao curso HTML e CSS na Prática, onde foram ensinados
 
 <p> Aplicação de tableless, na parte "clientes" com todos os links sendo direcionados aos seus respectivos sites.</p>
 
-<img src="C:/Users/diego/Desktop/part-3.jpg">
+<img src="Imagem 2/part-3.jpg">
 
 
 
@@ -47,7 +47,7 @@ O projeto foi criado junto ao curso HTML e CSS na Prática, onde foram ensinados
 
 <p> Terceira parte do site.</p>
 
-<img src="C:/Users/diego/Desktop/part-4.jpg">
+<img src="Imagem 2/part-4.jpg">
 
 
 
@@ -55,7 +55,7 @@ O projeto foi criado junto ao curso HTML e CSS na Prática, onde foram ensinados
 
 <p> A ultima parte onde foi aplicado um formulário e índices para comunicação.</p>
 
-<img src="C:/Users/diego/Desktop/part-5.jpg">
+<img src="Imagem 2/part-5.jpg">
 
 
 
@@ -63,5 +63,5 @@ O projeto foi criado junto ao curso HTML e CSS na Prática, onde foram ensinados
 
 ---
 
-<p align= center>Developed by <strong>DSB🐱‍👤</strong></p>
+<h3><p align= center>Developed by <strong>DSB🐱‍👤</strong></p><h3>
 
