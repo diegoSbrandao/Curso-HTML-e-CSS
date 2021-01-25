@@ -4,7 +4,7 @@
 
 ## 🚀 Projeto
 
-O projeto foi criado junto ao curso HTML e CSS na Prática, onde foram ensinados e aplicados vários conceitos na prática como: tableless, DiVs,  tipos de css, efeitos e outros mais.
+O projeto foi criado junto ao curso HTML e CSS na Prática, onde foram ensinados e aplicados vários conceitos na prática como: tableless, DiVs,  tipos de css, janelas modal e outros mais.
 
 
 
